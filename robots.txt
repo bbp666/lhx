@@ -1,6 +1,5 @@
 User-agent: *
 Disallow: /etc
-Disallow: /admin
 
 Sitemap: https://apeiria.net/sitemap.xml
 Sitemap: https://blog.apeiria.net/sitemap.xml

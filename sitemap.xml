@@ -1,45 +1,36 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://atri.tk/</loc>
+    <loc>https://apeiria.net/</loc>
   </url>
   <url>
-    <loc>https://i.atri.tk/</loc>
+    <loc>https://i.apeiria.net/</loc>
   </url>
   <url>
-    <loc>https://atri.tk/CyberChef/</loc>
+    <loc>https://blog.apeiria.net/</loc>
   </url>
   <url>
-    <loc>https://atri.tk/emoji-aes/</loc>
+    <loc>https://drive.apeiria.net/</loc>
   </url>
   <url>
-    <loc>https://atri.tk/melon/</loc>
+    <loc>https://p.apeiria.net/</loc>
   </url>
   <url>
-    <loc>https://blog.atri.tk/</loc>
-  </url>
-  <sitemap>
-    <loc>https://blog.atri.tk/sitemap.xml</loc>
-  </sitemap>
-  <url>
-    <loc>https://drive.atri.tk/</loc>
+    <loc>https://s.apeiria.net/</loc>
   </url>
   <url>
-    <loc>https://p.atri.tk/</loc>
+    <loc>https://clash.apeiria.net/</loc>
   </url>
   <url>
-    <loc>https://s.atri.tk/</loc>
+    <loc>https://sub.apeiria.net/</loc>
   </url>
   <url>
-    <loc>https://clash.atri.tk/</loc>
+    <loc>https://proxy.apeiria.net/</loc>
   </url>
   <url>
-    <loc>https://sub.atri.tk/</loc>
+    <loc>https://ip.apeiria.net/</loc>
   </url>
   <url>
-    <loc>http://yacd.atri.tk/</loc>
-  </url>
-  <url>
-    <loc>https://proxy.atri.tk/</loc>
+    <loc>https://repo.apeiria.net/</loc>
   </url>
 </urlset>
